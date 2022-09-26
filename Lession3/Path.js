@@ -5,5 +5,5 @@ const path = require("path");
 
 // console.log(extensionName);
 
-const joinName = path.join(__dirname + " Hello Limon");
+const joinName = path.join(__dirname + " Hello Limon ");
 console.log(joinName);
