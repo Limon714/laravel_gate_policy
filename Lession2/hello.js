@@ -1,1 +1,0 @@
-console log is one of the concept of js I love Nowrin
